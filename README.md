@@ -183,6 +183,3 @@ If you use or build upon this work, please cite:
 Cris Wang. Document Clustering & Topic Modeling. GitHub repository, 2025.
 ```
 
----
-
-```
