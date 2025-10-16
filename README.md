@@ -1,8 +1,3 @@
-
-
----
-
-````markdown
 # Document Clustering & Topic Modeling
 
 This repository implements an end-to-end framework for **unsupervised document analysis**, combining **document clustering (TF-IDF + KMeans)** and **topic modeling (Latent Dirichlet Allocation, LDA)**. The aim is to uncover latent structure among documents and extract interpretable topics.
